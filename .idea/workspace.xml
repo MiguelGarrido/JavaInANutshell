@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd175614-12f4-4d06-9c78-187b940f307c" name="Default" comment="For/In loop Demo&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ForInDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java in a nutshell.iws" />
@@ -390,6 +388,11 @@
       <created>1391430666069</created>
       <updated>1391430666069</updated>
     </task>
+    <task id="LOCAL-00001" summary="For/In loop Demo&#10;">
+      <created>1391443637110</created>
+      <updated>1391443637110</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
