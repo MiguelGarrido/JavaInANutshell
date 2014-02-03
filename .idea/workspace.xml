@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd175614-12f4-4d06-9c78-187b940f307c" name="Default" comment="">
+    <list default="true" id="dd175614-12f4-4d06-9c78-187b940f307c" name="Default" comment="Hello Word Example&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloWorld.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java in a nutshell.iws" />
@@ -424,7 +425,11 @@
       <created>1391443682473</created>
       <updated>1391443682473</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hello Word Example&#10;">
+      <created>1391444594845</created>
+      <updated>1391444594845</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -470,7 +475,8 @@
     </option>
     <MESSAGE value="Initial commit&#10;" />
     <MESSAGE value="For/In loop Demo&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="For/In loop Demo&#10;" />
+    <MESSAGE value="Hello Word Example&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello Word Example&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
